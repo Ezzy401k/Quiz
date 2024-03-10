@@ -1,7 +1,6 @@
 Day 17 of 100-day Python coding challenge
 
-# Quiz App
-
+# true-false-version-quiz
 This Python program is a quiz application that presents users with a series of multiple-choice questions and evaluates their answers.
 
 ## How it Works
